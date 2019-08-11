@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Module1
 {
-    class Program
+    class Module1
     {
         static void Main(string[] args)
         {
@@ -44,8 +44,6 @@ namespace Module1
             string credits = "";
             string DurationInWeeks;
             string teacher = "";
-
-
 
             // Assign some values
 
@@ -115,6 +113,12 @@ namespace Module1
             //Degree information
             Console.WriteLine(degreeName);
             Console.WriteLine(creditsRequired);
+
+            //Course information
+            Console.WriteLine(courseName);
+            Console.WriteLine(credits);
+            Console.WriteLine(DurationInWeeks);
+            Console.WriteLine(teacher);
 
             // use placeholder style
             Console.WriteLine("{0} years old.", birthDate);

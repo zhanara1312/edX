@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module1", "Module1\Module1.csproj", "{0CBD6106-F3FF-465A-A44A-7BAC86364CDC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "edX-Homework", "Module1\edX-Homework.csproj", "{0CBD6106-F3FF-465A-A44A-7BAC86364CDC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
